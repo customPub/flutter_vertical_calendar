@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide DateUtils;
 import 'package:intl/intl.dart';
 import 'package:vertical_calendar/utils/date_models.dart';
 import 'package:vertical_calendar/utils/date_utils.dart';
